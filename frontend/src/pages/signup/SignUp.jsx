@@ -23,7 +23,7 @@ const SignUp = () => {
       <div className="w-full p-6 bg-white-300 rounded-md bg-clip-padding backdrop-filter backdrop-blur-lg bg-opacity-0">
         <h1 className="text-3xl text-center">
           SignUp
-          <span className="text-blue-500"> ChatApp</span>
+          <span className="text-blue-500"> TalkieTalk</span>
         </h1>
         <form onSubmit={handleSubmit}>
           <div>
