@@ -15,7 +15,7 @@ export const SocketContextProvider = ({ children }) => {
 
   useEffect(() => {
     if (authUser) {
-      const socket = io.connect("https://takietalk-chatapp.onrender.com", {
+      const socket = io.connect(process.env.BACKEND_URL, {
         query: {
           userId: authUser._id,
         }
