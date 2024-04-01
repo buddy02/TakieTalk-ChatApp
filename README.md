@@ -1,6 +1,7 @@
 # TakieTalk - Real-Time Chat Application
 
-![screenshot](https://github.com/buddy02/temp/assets/93868306/b1606692-6d58-426c-82b6-d640ec39c662)
+![screenshot](https://github.com/buddy02/TakieTalk-ChatApp/assets/93868306/a57ad519-e5d8-4866-8b26-381cdaa4b2ff)
+
 
 TakieTalk is a real-time chat application built using MERN stack (MongoDB, Express, React, Node.js) along with Socket.io for real-time messaging. It includes features like authentication and authorization with JWT, online user status tracking, global state management with Zustand, error handling both on the server and client sides, and much more. With a sleek UI powered by TailwindCSS and Daisy UI, TakieTalk offers a seamless chatting experience.
 
